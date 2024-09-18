@@ -1,18 +1,19 @@
 import random
 
-
+# ADD LIST OF FOLLOWERS IN THE STYLE SHOWN BELOW
 followers = [
     "xaatumusic", "etc",
 ]
 
 
-
+# SAME FOR COMMENTERS
 commenters = [
     "xaatumusic", "etc",
 ]
 
 unique_commenters = list(set(commenters))
 
+# SAME FOR SHARERS
 sharers = [
     "xaatumusic", "etc",
 ]
